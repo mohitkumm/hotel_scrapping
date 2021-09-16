@@ -30,3 +30,4 @@ cnxn.commit()
 
 cursor.close()
 cnxn.close()
+print("Hello")
